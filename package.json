@@ -1,0 +1,14 @@
+{
+  "name": "advent-of-code-2023",
+  "version": "1.0.0",
+  "description": "Advent of code event for 2023",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Rikie Patrick",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
